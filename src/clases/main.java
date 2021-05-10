@@ -16,6 +16,7 @@ public class main {
         Scanner leer=new Scanner(System.in);
         System.out.println("Ingrese su nomobre:");
         prueba=leer.next();
+        System.out.println("Esto es una prueba");
     }
 
 }
